@@ -1,0 +1,490 @@
+{
+    "restaurants": [
+        {
+            "name": "Trio",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/trio",
+            "phone": "+45 44 22 74 74",
+            "email": "mail@restauranttrio.dk"
+        },
+        {
+            "name": "Restaurant Aure",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/restaurant-aure",
+            "phone": "+45 31 68 65 68",
+            "email": "info@restaurantaure.dk"
+        },
+        {
+            "name": "Frederiksminde",
+            "url": "https://guide.michelin.com/dk/en/zealand/praesto/restaurant/frederiksminde",
+            "phone": "+45 55 90 90 30",
+            "email": "info@frederiksminde.com"
+        },
+        {
+            "name": "Enomania",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/enomania",
+            "phone": "+45 33 23 60 80",
+            "email": "mail@enomania.dk"
+        },
+        {
+            "name": "Molskroen",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/ebeltoft/restaurant/molskroen",
+            "phone": "+45 86 36 22 00",
+            "email": "molskroen@molskroen.dk"
+        },
+        {
+            "name": "Gastrome",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/gastrome",
+            "phone": "+45 28 78 16 17",
+            "email": "kontakt@gastrome.dk"
+        },
+        {
+            "name": "Frederikshøj",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/frederikshoj",
+            "phone": "+45 86 14 22 80",
+            "email": "info@frederikshoj.com"
+        },
+        {
+            "name": "Domestic",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/domestic",
+            "phone": "+45 61 43 70 10",
+            "email": "info@restaurantdomestic.dk"
+        },
+        {
+            "name": "Kadeau Copenhagen",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/kadeau-copenhagen",
+            "phone": "+45 33 25 22 23",
+            "email": "careers@kadeau.dk"
+        },
+        {
+            "name": "Barr",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/barr",
+            "phone": "+45 32 96 32 93",
+            "email": "booking@restaurantbarr.com"
+        },
+        {
+            "name": "Uformel",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/uformel",
+            "phone": "+45 70 99 91 11",
+            "email": "info@uformel.dk" TU KONIEC
+        },
+        {
+            "name": "no.2",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/no-2",
+            "phone": "+45 33 11 11 68",
+            "email": "mail@nummer2.dk"
+        },
+        {
+            "name": "Sanchez",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/sanchez",
+            "phone": "+45 31 11 66 40",
+            "email": "booking@lovesanchez.com"
+        },
+        {
+            "name": "Sletten",
+            "url": "https://guide.michelin.com/dk/en/capital-region/humlabaek/restaurant/sletten",
+            "phone": "+45 49 19 13 21",
+            "email": "info@sletten.dk"
+        },
+        {
+            "name": "Rebel",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/rebel",
+            "phone": "+45 33 32 32 09",
+            "email": "info@restaurantrebel.dk"
+        },
+        {
+            "name": "Anarki",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/anarki",
+            "phone": "+45 22 13 11 34",
+            "email": "mail@restaurant-anarki.dk"
+        },
+        {
+            "name": "Aamanns 1921",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/aamanns-1921",
+            "phone": "+45 20 80 52 04",
+            "email": "job@aamanns.dk"
+        },
+        {
+            "name": "Alimentum",
+            "url": "https://guide.michelin.com/dk/en/north-denmark/aalborg/restaurant/alimentum",
+            "phone": "+45 93 91 37 67",
+            "email": "alimentum@alimentum.dk "
+        },
+        {
+            "name": "Host",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/host",
+            "phone": "+45 89 93 84 09",
+            "email": "hoest@cofoco.dk"
+        },
+        {
+            "name": "Radio",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/radio",
+            "phone": "+45 25 10 27 33",
+            "email": "info@restaurantradio.dk"
+        },
+        {
+            "name": "Sankt Annæ",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/sankt-annae",
+            "phone": "+45 33 12 54 97",
+            "email": null
+        },
+        {
+            "name": "Marchal",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/marchal",
+            "phone": "+45 33 12 00 94",
+            "email": "Marchal@dangleterre.com"
+        },
+        {
+            "name": "ARO",
+            "url": "https://guide.michelin.com/dk/en/southern-denmark/odense/restaurant/aro",
+            "phone": "+45 42 83 23 15",
+            "email": "info@restaurant-aro.dk"
+        },
+        {
+            "name": "Pluto",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/pluto",
+            "phone": "+45 33 16 00 16",
+            "email": "job@restaurantpluto.dk"
+        },
+        {
+            "name": "Kødbyens Fiskebar",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/kodbyens-fiskebar",
+            "phone": "+45 32 15 56 56",
+            "email": "info@fiskebaren.dk"
+        },
+        {
+            "name": "Substans",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/substans",
+            "phone": "+45 86 23 04 01",
+            "email": "info@restaurantsubstans.dk"
+        },
+        {
+            "name": "Ti Trin Ned",
+            "url": "https://guide.michelin.com/dk/en/southern-denmark/fredericia/restaurant/ti-trin-ned",
+            "phone": "+45 75 93 33 55",
+            "email": "restaurant@titrinned.dk"
+        },
+        {
+            "name": "Silberbauers Bistro",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/silberbauers-bistro",
+            "phone": "+45 36 96 65 93",
+            "email": "bistro@silberbauers.dk"
+        },
+        {
+            "name": "LYST",
+            "url": "https://guide.michelin.com/dk/en/southern-denmark/vejle/restaurant/lyst",
+            "phone": "+45 75 73 85 00",
+            "email": "info@restaurantlyst.com"
+        },
+        {
+            "name": "Ark",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/ark",
+            "phone": "+45 33 30 01 50",
+            "email": " kevin@arkcollection.dk"
+        },
+        {
+            "name": "Kong Hans Kælder",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/kong-hans-kaelder",
+            "phone": "+45 33 11 68 68",
+            "email": "info@konghans.dk"
+        },
+        {
+            "name": "Hærværk",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/haervaerk",
+            "phone": "+45 50 51 26 51",
+            "email": "info@restaurant-haervaerk.dk"
+        },
+        {
+            "name": "Syttende",
+            "url": "https://guide.michelin.com/dk/en/southern-denmark/sonderborg/restaurant/syttende",
+            "phone": "+45 74 20 30 00",
+            "email": "info@syttende.dk"
+        },
+        {
+            "name": "juju",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/juju-1203734",
+            "phone": "+45 28 74 93 40",
+            "email": "info@jujucph.dk"
+        },
+        {
+            "name": "Marv & Ben",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/marv-ben",
+            "phone": "+45 23 81 02 91",
+            "email": "reservation@marvogben.dk"
+        },
+        {
+            "name": "Bryghuset Vendia - Gourmet",
+            "url": "https://guide.michelin.com/dk/en/north-denmark/hjorring/restaurant/bryghuset-vendia-gourmet",
+            "phone": "+45 98 92 22 29",
+            "email": "info@bryghusetvendia.dk"
+        },
+        {
+            "name": "Moment",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/ronde/restaurant/moment",
+            "phone": null,
+            "email": "rikke@restaurantmoment.dk"
+        },
+        {
+            "name": "Ghrelin",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/ghrelin",
+            "phone": "+45 30 13 30 04",
+            "email": "info@ghrelin.dk"
+        },
+        {
+            "name": "Pondus",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/pondus",
+            "phone": "+45 28 77 18 50",
+            "email": "info@restaurantpondus.dk"
+        },
+        {
+            "name": "Alouette",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/alouette",
+            "phone": null,
+            "email": "careers@restaurantalouette.dk"
+        },
+        {
+            "name": "Selma",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/selma",
+            "phone": "+45 93 10 72 03",
+            "email": "hello@selmacopenhagen.dk"
+        },
+        {
+            "name": "Henne Kirkeby Kro",
+            "url": "https://guide.michelin.com/dk/en/southern-denmark/henne/restaurant/henne-kirkeby-kro",
+            "phone": null,
+            "email": "info@hennekirkebykro.dk"
+        },
+        {
+            "name": "Kiin Kiin",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/kiin-kiin",
+            "phone": "+45 35 35 75 55",
+            "email": "kiin@kiin.dk"
+        },
+        {
+            "name": "Bjoernekaelderen",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/bjornekaelderen",
+            "phone": "+45 47 77 47 47",
+            "email": "info@bjoernekaelderen.dk"
+        },
+        {
+            "name": "formel B",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/formel-b",
+            "phone": "+45 33 25 10 66",
+            "email": "info@formelb.dk"
+        },
+        {
+            "name": "Palægade",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/palaegade",
+            "phone": "+45 70 82 82 88",
+            "email": "info@palaegade.dk"
+        },
+        {
+            "name": "Lieffroy",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/nyborg/restaurant/lieffroy",
+            "phone": "+45 65 31 24 48",
+            "email": "mail@lieffroy.dk"
+        },
+        {
+            "name": "Det Rode Pakhus",
+            "url": "https://guide.michelin.com/dk/en/capital-region/ronne/restaurant/det-rode-pakhus",
+            "phone": "+45 64 63 50 26",
+            "email": "info@roedepakhus.dk"
+        },
+        {
+            "name": "The Pescatarian",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/the-pescatarian",
+            "phone": "+45 30 63 83 22",
+            "email": "reservation@thepescatarian.dk"
+        },
+        {
+            "name": "Atelier 33",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/atelier-33",
+            "phone": "+45 86 99 88 99",
+            "email": "kontakt@atelier33.dk"
+        },
+        {
+            "name": "Tri",
+            "url": "https://guide.michelin.com/dk/en/north-denmark/agger/restaurant/tri-1203718",
+            "phone": null,
+            "email": "info@restaurant-tri.com"
+        },
+        {
+            "name": "Domaene",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/herning/restaurant/domaene",
+            "phone": "+45 70 25 23 26",
+            "email": "info@restaurantdomaene.dk"
+        },
+        {
+            "name": "Sollerod Kro",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/sollerod-kro",
+            "phone": "+45 45 80 25 05",
+            "email": "mail@soelleroed-kro.dk"
+        },
+        {
+            "name": "Paesano",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/paesano",
+            "phone": "+45 53 77 71 92",
+            "email": "info@paesanocph.dk"
+        },
+        {
+            "name": "Mark",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/mark",
+            "phone": "+45 31 39 66 14",
+            "email": "info@restaurantmark.dk"
+        },
+        {
+            "name": "Koan",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/koan",
+            "phone": "+45 28 74 78 40",
+            "email": "careers@koancph.dk"
+        },
+        {
+            "name": "Amalie",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/amalie",
+            "phone": "+45 33 12 88 10",
+            "email": "info@restaurantamalie.dk"
+        },
+        {
+            "name": "Falsled Kro",
+            "url": "https://guide.michelin.com/dk/en/southern-denmark/millinge/restaurant/falsled-kro",
+            "phone": "+45 62 68 11 11",
+            "email": "info@falsledkro.dk"
+        },
+        {
+            "name": "Vaekst",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/vaekst",
+            "phone": "+45 38 41 27 27",
+            "email": "vaekst@cofoco.dk"
+        },
+        {
+            "name": "Admiralgade 26",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/admiralgade-26",
+            "phone": "+45 33 33 79 73",
+            "email": "work@vedstranden10.dk"
+        },
+        {
+            "name": "Dragsholm Slot Gourmet",
+            "url": "https://guide.michelin.com/dk/en/zealand/horve/restaurant/dragsholm-slot-gourmet",
+            "phone": "+45 59 65 33 00",
+            "email": "info@dragsholm-slot.dk"
+        },
+        {
+            "name": "tabu",
+            "url": "https://guide.michelin.com/dk/en/north-denmark/aalborg/restaurant/tabu",
+            "phone": "+45 88 19 60 58",
+            "email": "kontakt@ta-bu.dk"
+        },
+        {
+            "name": "Mielcke & Hurtigkarl",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/mielcke-hurtigkarl",
+            "phone": "+45 38 34 84 36",
+            "email": "staff@mhcph.com"
+        },
+        {
+            "name": "Restaurant ET",
+            "url": "https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/restaurant-et",
+            "phone": "+45 86 13 88 00",
+            "email": "velkommen@restaurant-et.dk"
+        },
+        {
+            "name": "L' Enoteca di Mr. Brunello",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/l-enoteca-di-mr-brunello",
+            "phone": "+45 33 11 47 20",
+            "email": "lenoteca@lenoteca.dk"
+        },
+        {
+            "name": "\u00e0 terre",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/a-terre",
+            "phone": "+45 71 99 56 99",
+            "email": null
+        },
+        {
+            "name": "Norrlyst",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/norrlyst",
+            "phone": "+45 61 42 95 81",
+            "email": null
+        },
+        {
+            "name": "M\u00f8ntergade",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/montergade",
+            "phone": "+45 33 33 06 10",
+            "email": null
+        },
+        {
+            "name": "The Samuel",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/the-samuel",
+            "phone": "+45 53 62 02 99",
+            "email": null
+        },
+        {
+            "name": "Connection by Alan Bates",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/connection-by-alan-bates",
+            "phone": "+45 40 22 00 67",
+            "email": null
+        },
+        {
+            "name": "a|o|c",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/a%E2%80%9Ao%E2%80%9Ac",
+            "phone": "+45 33 11 11 45",
+            "email": null
+        },
+        {
+            "name": "Villa Vest",
+            "url": "https://guide.michelin.com/dk/en/north-denmark/lonstrup/restaurant/villa-vest",
+            "phone": "+45 98 96 05 66",
+            "email": null
+        },
+        {
+            "name": "Koefoed",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/koefoed",
+            "phone": "+45 56 48 22 24",
+            "email": null
+        },
+        {
+            "name": "Bobe",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/bobe",
+            "phone": "+45 31 51 63 50",
+            "email": null
+        },
+        {
+            "name": "Lola",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/lola-1186066",
+            "phone": "+45 53 55 58 63",
+            "email": null
+        },
+        {
+            "name": "Levi",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/levi",
+            "phone": "+45 70 16 00 60",
+            "email": null
+        },
+        {
+            "name": "STUD!O",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/stud-o",
+            "phone": "+45 28 79 70 60",
+            "email": null
+        },
+        {
+            "name": "MOTA",
+            "url": "https://guide.michelin.com/dk/en/zealand/nykobing-sjaelland/restaurant/mota",
+            "phone": "+45 60 43 63 00",
+            "email": null
+        },
+        {
+            "name": "Frank",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/frank569608",
+            "phone": "+45 38 41 41 37",
+            "email": null
+        },
+        {
+            "name": "Sushi Anaba",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/sushi-anaba",
+            "phone": "+45 61 61 51 86",
+            "email": null
+        },
+        {
+            "name": "Theo",
+            "url": "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/theo",
+            "phone": "+45 61 10 15 92",
+            "email": null
+        }
+    ]
+}
